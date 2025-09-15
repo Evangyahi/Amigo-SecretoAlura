@@ -4,7 +4,9 @@
 ### **Hola**🙌
 - En este proyecto nos permite colocar varios nombres para sortearlos y lograr jugar al clasico juego de amigo secreto
 ### **Funcionamiento**
--Primero abre el archivo <code>html</code>
+- Primero abre el archivo <code>html</code>
+
+
 
 
 

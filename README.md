@@ -12,4 +12,4 @@
 
 ### **Conocimientos empleados**
 ![javascirpt](https://img.shields.io/badge/-Javascript-black?logo=javascript)
-![javascirpt](https://img.shields.io/badge/-Html-black?logo=Html)
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=HTML5)

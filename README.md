@@ -13,3 +13,4 @@
 ### **Conocimientos empleados**
 ![javascirpt](https://img.shields.io/badge/-Javascript-black?logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=HTML5)
+![Github](https://img.shields.io/badge/-Github-black?logo=Github)

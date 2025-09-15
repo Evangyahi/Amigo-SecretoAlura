@@ -27,9 +27,9 @@
 - Para <code>Sortear</code> solo haz click en el boton <code>Sortear</code>
 - Para borrar los datos y empezar de nuevo haz click en <code>Reiniciar</code>
 
-**Instalación** 🤔
+**Instalación**🤔
 - Clona o descarga el repositorio
 - Ejecuta
 - Listo ya tienes el proyecto en tu dispositivo
 
-#### **Y listoooooo** 😁 **disfruta el juego**
+#### **Y listoooooo**😁**disfruta el juego**

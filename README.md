@@ -5,7 +5,7 @@
 - En este proyecto nos permite colocar varios nombres para sortearlos y lograr jugar al clasico juego de amigo secreto
 
 ## **Funcionamiento**❤️
-- Primero abre el archivo <code>html</code>
+- Primero abre el archivo <code>html</code> ![HTML5]([https://img.shields.io/badge/-HTML5-black?logo=HTML5](https://evangyahi.github.io/Amigo-SecretoAlura/))
 - Luego ingresa los nombres que deseas colocar para sortear
 - Una vez colocados todos los nombres porfavor haz click en sortear
 - Listo ahora puedes sortear un amigo secreto o varios hasta que se sorteen todos los nombres

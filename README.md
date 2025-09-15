@@ -4,5 +4,8 @@
 ### **Hola**🙌
 - En este proyecto nos permite colocar varios nombres para sortearlos y lograr jugar al clasico juego de amigo secreto
 ### **Funcionamiento**
--Primero abre el archivo <code></code>
+-Primero abre el archivo <code>html</code>
+
+
+
 ![javascirpt](https://img.shields.io/badge/-HTML-black?logo=javascript)

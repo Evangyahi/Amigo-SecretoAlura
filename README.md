@@ -32,4 +32,4 @@
 - Ejecuta
 - Listo ya tienes el proyecto en tu dispositivo
 
-#### **Y listoooooo**😁**disfruta el juego**
+## **Y listoooooo**😁**disfruta el juego**

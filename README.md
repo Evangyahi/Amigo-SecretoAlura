@@ -4,4 +4,4 @@
 ### **Hola**🙌
 - En este proyecto nos permite colocar varios nombres para sortearlos y lograr jugar al clasico juego de amigo secreto
 ### **Funcionamiento**
--Primero java.js
+-Primero <code>java.js</code>

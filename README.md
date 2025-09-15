@@ -14,4 +14,4 @@
 ![javascirpt](https://img.shields.io/badge/-Javascript-black?logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=HTML5)
 ![Github](https://img.shields.io/badge/-Github-black?logo=Github)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)

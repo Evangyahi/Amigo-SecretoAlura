@@ -15,3 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=HTML5)
 ![Github](https://img.shields.io/badge/-Github-black?logo=Github)
 ![CSS](https://img.shields.io/badge/-CSS-black?logo=CSS)
+
+### **Requisitos**
+- *Navegador basico <code>Firefox,Chroome,Edge,etc..</code>*
+- *Dispositivo con conexion a internet*
